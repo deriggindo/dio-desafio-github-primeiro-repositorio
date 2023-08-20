@@ -1,2 +1,5 @@
 https://pt.wikipedia.org/wiki/HTML5
 https://www.hostinger.com.br/tutoriais/diferenca-entre-html-e-html5
+https://www.w3schools.com/tags/ref_html_browsersupport.asp
+https://info.cern.ch/
+https://v8.dev/
